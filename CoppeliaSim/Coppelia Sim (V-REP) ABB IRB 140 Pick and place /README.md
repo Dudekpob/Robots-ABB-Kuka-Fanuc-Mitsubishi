@@ -1,1 +1,1 @@
-Pick and plance
+Simple pick and place
