@@ -1,1 +1,0 @@
-Simple pick and place
