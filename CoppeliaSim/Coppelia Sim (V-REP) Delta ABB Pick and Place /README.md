@@ -1,1 +1,0 @@
-  Pick and place delta 
