@@ -1,0 +1,1 @@
+ABB robot with screwdriver
