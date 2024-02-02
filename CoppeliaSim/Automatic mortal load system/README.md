@@ -1,0 +1,1 @@
+Automatic mortal load system
